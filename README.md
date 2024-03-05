@@ -12,3 +12,6 @@ Work accomplished:
 5. Created charts for visualizations based on Pivot tables
 6. Created Slicers to filter the data based on criterion: Bike Purchased Response, Education, Home owner and Gender
 7. Created a dashboard comprising of the visualization and slicers
+
+Dashboard: 
+![Bike Sales Dashboard](https://github.com/PranavP4tel/Excel-Visualization-Project/assets/89249812/c607cf99-601b-440f-8efa-1f73982eb495)
